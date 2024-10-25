@@ -1,0 +1,10 @@
+@media (min-width:350px) and (max-width:550px){
+    .heading{
+        font-size:25px;
+    }
+    .playerTurn{
+        width: 200px;
+       height: 70px;
+       font-size: 23px;
+    }
+}
